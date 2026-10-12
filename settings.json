@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
+    "ip": "GGMoney.aternos.me:12005",
+    "port": 12005,
     "version": "1.21.1"
   },
   "position": {
